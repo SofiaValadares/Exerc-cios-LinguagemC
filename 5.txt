@@ -1,0 +1,13 @@
+Em linguagem C, um caractere é representado pelo tipo char e serve para armazenar um único símbolo, 
+como uma letra, número ou sinal de pontuação. Para declarar um caractere, utilizamos aspas simples. 
+Por exemplo, char letra = 'a'; cria uma variável que armazena apenas o caractere 'a'.
+
+Já uma string em C é, na verdade, um array de caracteres finalizado com o caractere especial '\0', 
+que indica o fim da string. As strings são declaradas usando aspas duplas. Por exemplo, 
+char palavra[] = "casa"; cria um array de cinco posições: os caracteres 'c', 'a', 's', 'a' e o 
+terminador '\0'.
+
+A principal diferença entre caractere e string em C é que um caractere guarda apenas um símbolo individual,
+enquanto a string armazena uma sequência de caracteres. Assim, 'a' representa um char, e "a" representa uma 
+string formada por dois caracteres: 'a' e '\0'.
+
