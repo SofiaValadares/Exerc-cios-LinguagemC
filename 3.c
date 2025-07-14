@@ -54,6 +54,8 @@ int main() {
 
     int C[lA][cB];
     multiplicarMatrizes(lA, cA, cB, A, B, C);
+
+    printf("\nMatrix resultado\n");
     imprimirMatriz(lA, cB, C);
 
     return 0;
