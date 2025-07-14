@@ -1,0 +1,5 @@
+Na matriz 3x3 apresentada, os elementos da diagonal principal são aqueles que se localizam nas posições em que 
+o número da linha é igual ao número da coluna. Assim, os elementos da diagonal principal são 1, 4 e 2. Já os 
+elementos da diagonal secundária são aqueles cujos índices de linha e coluna somam 2 (ou seja, n - 1, sendo n o 
+tamanho da matriz, que é 3). Portanto, os elementos da diagonal secundária são 3, 4 e 7.
+
